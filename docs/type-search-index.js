@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Cuenta"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MaximoRetirosExcedidos"},{"p":"<Unnamed>","l":"MontoLimiteException"},{"p":"<Unnamed>","l":"SaldoInsuficienteException"}]
